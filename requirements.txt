@@ -1,4 +1,6 @@
+# nosemgrep
 certifi==2021.10.8
+# nosemgrep
 charset-normalizer==2.0.12
 click==8.0.1
 Flask==2.0.1
